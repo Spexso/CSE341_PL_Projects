@@ -1,2 +1,2 @@
 # CSE341_Projects
-Programming Languages course projects involves Lisp language
+Programming Languages course projects involves Lisp language.
